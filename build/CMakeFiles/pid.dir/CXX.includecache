@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taha/Self-driving-car/udacity_term_2/PID controller/project/CarND-PID-Control-Project-master/src/PID.cpp
+PID.h
+/home/taha/Self-driving-car/udacity_term_2/PID controller/project/CarND-PID-Control-Project-master/src/PID.h
+math.h
+-
+iostream
+-
+
+/home/taha/Self-driving-car/udacity_term_2/PID controller/project/CarND-PID-Control-Project-master/src/PID.h
+
+/home/taha/Self-driving-car/udacity_term_2/PID controller/project/CarND-PID-Control-Project-master/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+/home/taha/Self-driving-car/udacity_term_2/PID controller/project/CarND-PID-Control-Project-master/src/main.cpp
+uWS/uWS.h
+-
+iostream
+-
+json.hpp
+/home/taha/Self-driving-car/udacity_term_2/PID controller/project/CarND-PID-Control-Project-master/src/json.hpp
+PID.h
+/home/taha/Self-driving-car/udacity_term_2/PID controller/project/CarND-PID-Control-Project-master/src/PID.h
+math.h
+-
+
